@@ -1,6 +1,7 @@
 # Digital-Literacy-Project
 
 Digital Literacy Project Portfolio
+
 👩‍🎓 Student Details
 
 Name: Ananya Varshney
