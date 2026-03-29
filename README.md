@@ -40,6 +40,28 @@ The project is divided into five tasks, each focusing on different aspects of di
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 📂 Repository Structure
 
 
@@ -76,9 +98,26 @@ Focused on building an online academic and professional identity.
 🔹 Task 3 – Platforms Exploration
 Completed a coding challenge on a practice platform.
 Created a Google Form for a Digital Literacy Awareness Quiz.
+
+
+
+
 📁 Folder: task-3-platforms/
 
+
+
+
+
+
+
+
+
 🔗 Google Form Link: (Add your link here)
+
+
+
+
+
 
 
 
@@ -86,7 +125,23 @@ Created a Google Form for a Digital Literacy Awareness Quiz.
 Drafted professional emails for academic and internship purposes.
 Created a Social Media Do’s and Don’ts checklist.
 
+
+
+
+
+
 📁 Folder: task-4-email-etiquette/
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -94,19 +149,72 @@ Created a Social Media Do’s and Don’ts checklist.
 Developed a case study on cybercrime scenarios.
 Created a “Stay Safe Online” prevention checklist.
 
+
+
+
+
+
+
+
+
+
+
 📁 Folder: task-5-cybercrime/
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 📄 Project Report
 
+
+
+
+
+
 The complete project report is available in:
 📁 report/Project_Report.pdf
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 🎯 Key Learnings
+
+
+
+
+
+
+
+
+
+
+
 
 Importance of digital literacy in academic and professional life
 Building a strong and responsible online presence
@@ -115,7 +223,33 @@ Awareness of cyber threats and prevention techniques
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 🔗 Useful Links
+
+
+
+
+
+
+
+
+
+
 
 Cyber Crime Portal: https://cybercrime.gov.in
 
@@ -125,7 +259,23 @@ LinkedIn: https://linkedin.com
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ✅ Conclusion
+
+
+
+
 
 This project helped me understand the importance of being a responsible digital citizen. It enhanced my skills in communication, online safety, and professional networking, which will be valuable throughout my academic and career journey.
 
