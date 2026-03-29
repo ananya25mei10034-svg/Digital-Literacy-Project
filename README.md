@@ -2,10 +2,15 @@
 
 Digital Literacy Project Portfolio
 👩‍🎓 Student Details
+
 Name: Ananya Varshney
+
 Registration Number: 25MEI10034
+
 Course: CSE0001 – Digital Literacy
+
 University: VIT Bhopal University
+
 
 
 📌 Project Overview
@@ -62,8 +67,11 @@ Awareness of cyber threats and prevention techniques
 
 🔗 Useful Links
 Cyber Crime Portal: https://cybercrime.gov.in
+
 GitHub: https://github.com
+
 LinkedIn: https://linkedin.com
+
 
 
 ✅ Conclusion
