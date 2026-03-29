@@ -4,6 +4,22 @@ Digital Literacy Project Portfolio
 
 👩‍🎓 Student Details
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Name: Ananya Varshney
 
 Registration Number: 25MEI10034
