@@ -16,12 +16,27 @@ University: VIT Bhopal University
 
 
 
+
+
+
+
+
+
+
+
 📌 Project Overview
 
 
 This repository contains my Digital Literacy Project Portfolio, created as part of the CSE0001 course. As a Student Digital Ambassador, the objective of this project is to develop awareness about responsible digital usage, professional online presence, and cyber safety among college students.
 
 The project is divided into five tasks, each focusing on different aspects of digital literacy such as communication, online platforms, collaboration tools, and cybercrime awareness. All tasks are documented with relevant files, screenshots, and reflections.
+
+
+
+
+
+
+
 
 
 
@@ -33,14 +48,29 @@ Created a one-page infographic explaining digital literacy concepts.
 Includes topics like safe internet practices and professional presence.
 
 
+
+
+
 📁 Folder: task-1-presentation/
+
+
+
+
+
 
 
 🔹 Task 2 – Digital Portfolio
 Set up professional profiles on platforms like GitHub and LinkedIn.
 Focused on building an online academic and professional identity.
 
+
+
+
 📁 Folder: task-2-portfolio/
+
+
+
+
 
 
 🔹 Task 3 – Platforms Exploration
